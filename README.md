@@ -68,12 +68,8 @@ The model achieves a **19.12% BLEU-4 score** on the Flickr8k dataset after 50 ep
    python predict.py --n 5
    ```
 
-## 🖼️ Results Sample
-The model generates captions and overlays them directly onto the output images with a semi-transparent background for high readability.
-
-| Sample 1 | Sample 2 | Sample 3 |
-| :---: | :---: | :---: |
-| ![Model Output](screenshots/sample_1.png) | ![Model Output](screenshots/sample_2.png) | ![Model Output](screenshots/sample_3.png) |
+## 🖼️ Results
+Sample AI-generated captions and overlays can be found in the [screenshots/](./screenshots/) folder.
 
 ---
 *Developed as a modular, production-ready implementation of the Merge Architectures for Image Captioning.*
