@@ -1,0 +1,8 @@
+tensorflow
+opencv-python
+numpy
+matplotlib
+tqdm
+nltk
+tqdm
+pickle-mixin
